@@ -11,5 +11,5 @@ It includes:
 
 ## Files
 
-- `SecureNetwork.pkt` - Main Packet Tracer project
-- `Report.pdf` - Full configuration report with screenshots
+- `Secure Network Design in Cisco Packet Tracer` - Main Packet Tracer project
+- `Secure_Network_Report` - Full configuration report with screenshots
